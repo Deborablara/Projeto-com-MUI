@@ -37,7 +37,6 @@ export const AppThemeProvider: React.FC<{children: React.ReactNode}> = ({childre
         </Box>
        
       </ThemeProvider>
-
     </ThemeContext.Provider>
   );
  
